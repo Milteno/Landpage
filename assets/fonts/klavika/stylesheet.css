@@ -1,0 +1,13 @@
+@font-face {
+    font-family: 'Klavika Rg';
+    src: url('Klavika-Regular.eot');
+    src: url('Klavika-Regular.eot?#iefix') format('embedded-opentype'),
+        url('Klavika-Regular.woff2') format('woff2'),
+        url('Klavika-Regular.woff') format('woff'),
+        url('Klavika-Regular.ttf') format('truetype'),
+        url('Klavika-Regular.svg#Klavika-Regular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+

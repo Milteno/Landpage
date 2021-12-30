@@ -1,0 +1,13 @@
+@font-face {
+    font-family: 'Klavika Bold Condensed';
+    src: url('Klavika-BoldCondensedItalic.eot');
+    src: url('Klavika-BoldCondensedItalic.eot?#iefix') format('embedded-opentype'),
+        url('Klavika-BoldCondensedItalic.woff2') format('woff2'),
+        url('Klavika-BoldCondensedItalic.woff') format('woff'),
+        url('Klavika-BoldCondensedItalic.ttf') format('truetype'),
+        url('Klavika-BoldCondensedItalic.svg#Klavika-BoldCondensedItalic') format('svg');
+    font-weight: bold;
+    font-style: italic;
+    font-display: swap;
+}
+
