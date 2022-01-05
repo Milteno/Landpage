@@ -1,0 +1,2 @@
+//Walidacja wszystkich plików z rozszerzeniem .html
+npm exec html-validate *.html
